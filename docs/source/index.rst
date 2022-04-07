@@ -1,17 +1,11 @@
-Welcome to Lumache's documentation!
+Welcome to Sahayya's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Sahayya** is a networking platform for certified NGOs and donor companies to facilitate smooth functioning of community welfare activities, in form of mobile application. Sahayya is a Flutter app which allows users to be of type Donor or NGO (both companies and NGOs can be verified through a separate pipeline). The donors can create a request for commodity they wish to donate while NGOs can create request for goods they require alongside a deadline. Each of the users can then apply to each others application - chat on a real-time forum and whence approved, can complete the transaction.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+A permanent invoice is generated upon success which can be stored and downloaded as a record. There's also added functionality based on client request to have documents uploaded alongside applications and requests, an option to fetch the nearby NGOs (distance algorithms) and more.
 
-.. note::
-
-   This project is under active development.
+Sahayya is a complete package to solve the problem statement!
 
 Contents
 --------
