@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+
+SAHAYYA has its documentation hosted on Read the Docs.
